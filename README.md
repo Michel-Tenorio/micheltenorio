@@ -46,7 +46,7 @@ Busco constantemente aprender novas linguagens, frameworks e boas práticas de p
 ---
 
 ## 📫 Como me encontrar  
-📧 **E-mail:** [seu-email@gmail.com]  
+📧 **E-mail:** [michel.rtenorio@gmail.com]  
 💼 **LinkedIn:** [linkedin.com/in/micheltenorio](https://linkedin.com/in/micheltenorio)  
 🐙 **GitHub:** [github.com/micheltenorio](https://github.com/micheltenorio)
 
