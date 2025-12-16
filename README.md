@@ -11,8 +11,8 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas** em transição de carreira, com experiência anterior nas áreas de **eletrônica** e **tecnologia**.  
 Atuei como **Montador Eletrônico** na *Salcomp Indústria Eletrônica da Amazônia* e como **Aprendiz** no *Yamaha Group Brasil*, onde desenvolvi senso de qualidade, organização e trabalho em equipe.
 
-Hoje estou direcionando minha carreira para o **desenvolvimento de software** e **automação**, utilizando principalmente **Python**, **JavaScript/Node.js** e **SQL**.  
-Gosto de estruturar projetos bem documentados, utilizar boas práticas de versionamento com **Git/GitHub** e integrar ferramentas para tornar processos mais eficientes.
+Hoje estou direcionando minha carreira para o **desenvolvimento de software** e **automação**, utilizando principalmente **Python**, **JavaScript/Node.js**, **SQL** e **n8n** para integrar APIs, IA e serviços em fluxos práticos. [memory:46]  
+Gosto de estruturar projetos bem documentados, utilizar boas práticas de versionamento com **Git/GitHub** e integrar ferramentas para tornar processos mais eficientes. [memory:51]
 
 ---
 
@@ -25,7 +25,8 @@ Gosto de estruturar projetos bem documentados, utilizar boas práticas de versio
 - `C` / `C++` – lógica e base de baixo nível  
 
 ### 🧰 Ferramentas e Tecnologias  
-- `Git & GitHub` – versionamento, branches, issues e colaboração  
+- `n8n` – criação de fluxos de automação com APIs, e-mail, IA e integrações diversas [memory:43]  
+- `Git & GitHub` – versionamento, branches, issues e colaboração [memory:51]  
 - `SQLite` / `SQL` – modelagem simples, consultas e integração com aplicações  
 - `VS Code` – ambiente principal de desenvolvimento  
 - `Microsoft Excel` & `Power BI` – análise e visualização de dados  
@@ -39,9 +40,20 @@ Gosto de estruturar projetos bem documentados, utilizar boas práticas de versio
 
 ## 📂 Alguns projetos (GitHub)  
 
-- 🔁 **Automação e Scripts com Python** – rotinas para organização de arquivos, manipulação de PDFs e automação de tarefas repetitivas.  
-- 🤖 **Workflows de automação** – integrações com APIs e serviços para otimizar processos do dia a dia.  
-- 🗄️ **Aplicações com banco de dados** – pequenos sistemas com SQLite e SQL para cadastro e consulta de informações.  
+- 🌤️ **Automação de clima com n8n**  
+  Fluxo no n8n que consome a API do OpenWeather, gera um resumo diário da previsão do tempo e envia e-mails personalizados com sugestões para o dia, usando lógica condicional e templates dinâmicos. [conversation_history:53]  
+
+- 📬 **Gerenciador de e-mail com n8n**  
+  Workflow que organiza e-mails automaticamente a partir de regras (assunto, remetente, palavras-chave), podendo classificar, arquivar, responder ou encaminhar mensagens, ideal para suporte e rotinas repetitivas. [conversation_history:53][memory:43]  
+
+- 🤖 **Chatbot em n8n integrado a IA**  
+  Chatbot orquestrado pelo n8n, usando API de IA para responder dúvidas, registrar atendimentos e se integrar a outros serviços (e-mail, webhooks, sistemas internos), pensado para suporte e automação de atendimento. [memory:42][conversation_history:54]  
+
+- 📈 **Análise financeira com Python**  
+  Projeto em Python que consome dados de ativos (ações ou moedas), lê histórico de preços, calcula indicadores simples (médias móveis, retorno, volatilidade) e apresenta uma visão educativa do comportamento do ativo. [memory:48][memory:49]  
+
+- 🖥️ **Ferramentas de automação em Python**  
+  Scripts para organização de arquivos, manipulação de PDFs e automação de tarefas do dia a dia, focando em produtividade e portfólio de automação prática. [memory:51]  
 
 > Você pode ver todos os meus projetos em: [github.com/micheltenorio](https://github.com/micheltenorio)
 
@@ -51,10 +63,18 @@ Gosto de estruturar projetos bem documentados, utilizar boas práticas de versio
 
 <div align="center">
 
-![Michel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=micheltenorio&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheltenorio&layout=compact&theme=tokyonight)
+<!-- Stats gerais -->
+![Michel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=micheltenorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true) [web:1]
+
+<!-- Linguagens mais usadas -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheltenorio&layout=compact&theme=tokyonight&hide_border=true&langs_count=6) [web:1]
 
 </div>
+
+<!-- Streak de contribuições -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=micheltenorio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p> [web:11]
 
 ---
 
@@ -62,8 +82,8 @@ Gosto de estruturar projetos bem documentados, utilizar boas práticas de versio
 
 - **Back-End com Node.js e SQLite**  
 - **APIs RESTful**, boas práticas de rotas, status HTTP e autenticação  
-- **Automação de processos** usando scripts e integrações entre serviços  
-- **Versionamento com Git e GitHub** (branches, pull requests, issues e projetos)  
+- **Automação de processos** usando scripts, n8n e integrações entre serviços [memory:45]  
+- **Versionamento com Git e GitHub** (branches, pull requests, issues e projetos) [memory:51]
 
 ---
 
@@ -72,6 +92,10 @@ Gosto de estruturar projetos bem documentados, utilizar boas práticas de versio
 📧 E-mail: **michel.rtenorio@gmail.com**  
 💼 LinkedIn: [linkedin.com/in/micheltenorio](https://linkedin.com/in/micheltenorio)  
 🐙 GitHub: [github.com/micheltenorio](https://github.com/micheltenorio)
+
+---
+
+> 💬 *“GitHub não é só sobre armazenar código — é sobre demonstrar maturidade técnica, organização e capacidade de aprendizado contínuo.”*
 
 ---
 
