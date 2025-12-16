@@ -64,26 +64,18 @@ Gosto de estruturar projetos bem documentados, utilizar boas práticas de versio
 <div align="center">
 
 <!-- Stats gerais -->
-![Michel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=micheltenorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true) [web:1]
+<img src="https://github-readme-stats.vercel.app/api?username=micheltenorio&show_icons=true&theme=tokyonight&hide_border=true" alt="Michel GitHub stats" />
 
 <!-- Linguagens mais usadas -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheltenorio&layout=compact&theme=tokyonight&hide_border=true&langs_count=6) [web:1]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheltenorio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 
 </div>
 
 <!-- Streak de contribuições -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=micheltenorio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p> [web:11]
+</p>
 
----
-
-## 🌱 O que estou estudando atualmente  
-
-- **Back-End com Node.js e SQLite**  
-- **APIs RESTful**, boas práticas de rotas, status HTTP e autenticação  
-- **Automação de processos** usando scripts, n8n e integrações entre serviços [memory:45]  
-- **Versionamento com Git e GitHub** (branches, pull requests, issues e projetos) [memory:51]
 
 ---
 
