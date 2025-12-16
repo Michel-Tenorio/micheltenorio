@@ -70,13 +70,6 @@ Gosto de estruturar projetos bem documentados, utilizar boas práticas de versio
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheltenorio&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 
 </div>
-
-<!-- Streak de contribuições -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=micheltenorio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
 ---
 
 ## 📫 Como me encontrar  
@@ -89,8 +82,5 @@ Gosto de estruturar projetos bem documentados, utilizar boas práticas de versio
 
 > 💬 *“GitHub não é só sobre armazenar código — é sobre demonstrar maturidade técnica, organização e capacidade de aprendizado contínuo.”*
 
----
-
-> 💬 *“GitHub não é só sobre armazenar código — é sobre demonstrar maturidade técnica, organização e capacidade de aprendizado contínuo.”*
 
 
